@@ -1,7 +1,7 @@
 # Hi, I'm Ram Govind.
 
 - 🔭 I’m currently pursuing bachelors in Computer Science and Engineering
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about Machine Learning.
 - 😄 Pronouns: He/His.
 
