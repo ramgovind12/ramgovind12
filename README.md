@@ -16,7 +16,7 @@
   <a href="https://twitter.com/kunalstwt">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
+  <a href="[https://www.linkedin.com/in/kunal-kushwaha/](https://www.linkedin.com/in/ram-govind-v-30abb9220/)">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   
