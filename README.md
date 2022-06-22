@@ -16,11 +16,11 @@
   <a href="">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="">
+  <a href="https://www.linkedin.com/in/ram-govind-v-30abb9220/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   
-  <a href="">
+  <a href="https://www.instagram.com/_ramgovind_/ ">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
   
