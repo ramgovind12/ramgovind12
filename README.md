@@ -10,6 +10,7 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/2x/python.png"></code>
 <code><img height="40" src="https://image.shutterstock.com/image-vector/sql-web-icon-isolated-illustration-260nw-457293211.jpg"></code>
+<code><img height="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 
 
 ## Connect with me
