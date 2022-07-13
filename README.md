@@ -1,16 +1,43 @@
-# Hi, I'm Ram Govind.
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-- 🔭 I’m currently pursuing bachelors in Computer Science and Engineering
-- 🌱 I’m currently learning React.
-- 💬 Ask me about Machine Learning.
+
+# Hi There, I'm Ram Govind 👋 
+
+- 🔭 Currently pursuing bachelors in Computer Science and Engineering
+- 🌱 Interested in Deep Learning.
 - 😄 Pronouns: He/His.
 
-## Skill:
-<code><img height="40" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/2x/python.png"></code>
-<code><img height="40" src="https://image.shutterstock.com/image-vector/sql-web-icon-isolated-illustration-260nw-457293211.jpg"></code>
-<code><img height="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
+
+💻 **Things I love**
+- Machine Learning
+- Data Science
+- Backend Development
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
+
+
+## 🛠**Tech Stack**
+
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
+
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=JAVA)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++)
+
+
+
 
 
 ## Connect with me
