@@ -17,7 +17,7 @@
 
 
 
-## 🛠**Tech Stack**
+### 🛠**Tech Stack**
 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -40,7 +40,7 @@
 
 
 
-## Connect with me
+### Connect with me
   <a href="">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
