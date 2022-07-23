@@ -4,8 +4,8 @@
 ### Hi there, I am Ram Govind 👋
 
 - 🔭 Currently pursuing bachelors in Computer Science and Engineering
-- 🌱 Interested in Deep Learning.
-- 😄 Pronouns: He/His.
+-  Interested in Deep Learning.
+-  Pronouns: He/His.
 
 
 💻 **Things I love**
