@@ -43,9 +43,6 @@ A passionate Computer Science and Engineering student currently pursuing my bach
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </picture>
 </a>&ensp;
-<a href="">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
   <a href="https://www.linkedin.com/in/ram-govind-v-30abb9220/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
